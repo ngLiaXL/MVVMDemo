@@ -1,4 +1,4 @@
-package ldroid.mvvmdemo;
+package ldroid.mvvmdemo.network;
 
 public class AppAssembly {
 
